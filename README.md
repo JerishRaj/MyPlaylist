@@ -49,16 +49,16 @@ Here's a glimpse of the playlist included in this project:
 
 
 ## 📂 Project Structure
-
+```bash
 ├── index.html
 ├── musiclogo.jpg
 ├── *.mp3
 ├── *image.jpg
+```
 
 * `index.html` — Main webpage
 * `.jpg` files — Album cover and page icon
 * `.mp3` files — Local audio tracks
-
 
 ## 💡 What I Learned
 
