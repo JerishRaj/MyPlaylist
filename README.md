@@ -95,5 +95,3 @@ Let’s connect and share our love for code & creativity! 💬
 
 > 🔐 **Disclaimer**: This project is meant for **educational/demo purposes only**. All media used are personal favorites and **not for commercial use**.
 
-
-Let me know if you'd like help writing the CSS or adding styling too!
